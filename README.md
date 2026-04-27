@@ -44,7 +44,7 @@ Real-time balance control stack for a single-wheel electric skateboard platform.
 
 ---
 
-### 🏎️ [Semi-Autonomous Electric Go-Kart](https://github.com/KanishkaHarwani/semi-autonomous-go-kart)
+### 🏎️ [SAM Go-Kart](https://github.com/KanishkaHarwani/SAM-Go-Kart)
 Full hardware and embedded systems integration for an autonomous EV test-bed. Custom drive control board, CAN-based steering/throttle/brake actuation, LiDAR + camera sensor stack, and modular power distribution architecture.  
 `CAN Bus` `PCB Design` `LiDAR` `Embedded Firmware` `Autonomous Systems`
 
