@@ -17,7 +17,7 @@ Robotics & Embedded Systems Engineer — I build hardware, firmware, and control
 ![micro-ROS](https://img.shields.io/badge/micro--ROS-22314E?style=flat)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![ODrive](https://img.shields.io/badge/ODrive-FF6B00?style=flat)
-`Autonomous Navigation` `Sensor Fusion` `Kalman Filter` `ZUPT` `Quaternion Orientation`
+`Autonomous Navigation` `Sensor Fusion` 
 
 **Communication Protocols**  
 `CAN Bus` `UART` `SPI` `I2C` `TCP/UDP` `Bluetooth` `Wi-Fi`
