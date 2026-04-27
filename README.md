@@ -38,7 +38,7 @@ Robotics & Embedded Systems Engineer — I build hardware, firmware, and control
 
 ## Featured Projects
 
-### 🛹 [Reaction Wheel Balance Bot](https://github.com/KanishkaHarwani/reaction-wheel-balance-bot)
+### 🛹 [Reaction Wheel Balance Bot](https://github.com/KanishkaHarwani/RWBB)
 Real-time balance control stack for a single-wheel electric skateboard platform. Pitch stabilisation via BLDC reaction wheel controlled over CAN (ODrive Micro). Embedded state estimator on ESP32 using IMU + 5 ToF sensors, Kalman filtering, ZUPT, and quaternion-based orientation.  
 `ESP32` `CAN Bus` `ODrive` `IMU` `Kalman Filter` `ROS 2` `TCP/UDP`
 
@@ -50,7 +50,7 @@ Full hardware and embedded systems integration for an autonomous EV test-bed. Cu
 
 ---
 
-### 🤖 [ROS 2 Micro Mobility Robot Platform](https://github.com/KanishkaHarwani/ros2-micro-mobility-robot)
+### 🤖 [ROS 2 Enabled Micro Mobility Robot Platform](https://github.com/KanishkaHarwani/ROS2-Enabled-Micro-Mobility-Robot-Platform)
 Compact mobile robot built from scratch with micro-ROS on ESP32. Bluetooth/Wi-Fi teleoperation, full ROS node integration, IMU + motor drivers, and a custom PCB for modular sensor expansion.  
 `ROS 2` `micro-ROS` `ESP32` `PCB Design` `UART` `SPI` `Bluetooth` `Wi-Fi`
 
