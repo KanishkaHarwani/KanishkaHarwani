@@ -56,7 +56,7 @@ Compact mobile robot built from scratch with micro-ROS on ESP32. Bluetooth/Wi-Fi
 
 ---
 
-### 📡 [AMR Safety Test Platform](https://github.com/KanishkaHarwani/amr-safety-test-platform)
+### 📡 [AMR Safety Test Platform](https://github.com/KanishkaHarwani/AMR-Test-Platform)
 Four-wheel-drive autonomous mobile robot for safety research in human-robot shared environments. ROS 2 real-time sensor fusion framework using mmWave radar, cameras, IMU, and GPS. Comparative testing of radar vs. camera perception.  
 `ROS 2` `mmWave Radar` `Sensor Fusion` `IMU` `GPS` `Autonomous Navigation`
 
