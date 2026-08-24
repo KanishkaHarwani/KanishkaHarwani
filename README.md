@@ -52,11 +52,11 @@ Four-wheel-drive autonomous mobile robot for perception and safety research in h
 `ROS 2` `C++` `Sensor Fusion` `mmWave Radar` `IMU` `GPS` `Autonomous Navigation`
 
 ### 🤖 [ROS 2 + Gazebo VSLAM Bot](https://github.com/KanishkaHarwani/ros2-gz-vslam-bot)
-Simulation platform for developing and validating VSLAM and autonomous navigation on a 4-wheel skid-steer robot. Dual-camera perception stack with ROS 2 and Gazebo, progressing from teleoperation and odometry validation toward visual localization, mapping, obstacle detection, and autonomous navigation. 
+Simulation platform for developing and validating VSLAM and autonomous navigation on a 4-wheel skid-steer robot. Dual-camera perception stack with ROS 2 and Gazebo, progressing from teleoperation and odometry validation toward visual localization, mapping, obstacle detection, and autonomous navigation.  
 `ROS 2` `Gazebo` `VSLAM` `C++` `Computer Vision` `Navigation`
 
 ### ⚙️ [POSIX ↔ ROS 2 Shared Memory Bridge](https://github.com/KanishkaHarwani/posix-ros2-shm-bridge)
-C++ IPC pipeline connecting POSIX processes and ROS 2 through shared memory and semaphores. Validated with V4L2 camera capture, ROS 2 image transport, object detection, and live overlay rendering for high-throughput perception data. 
+C++ IPC pipeline connecting POSIX processes and ROS 2 through shared memory and semaphores. Validated with V4L2 camera capture, ROS 2 image transport, object detection, and live overlay rendering for high-throughput perception data.  
 `C++` `POSIX` `IPC` `Shared Memory` `ROS 2` `V4L2` `OpenCV`
 
 ---
