@@ -2,6 +2,7 @@
 
 Robotics & Embedded Systems Engineer — I build hardware, firmware, and control stacks for robots that operate in the real world.  
 **MS Mechatronics @ NYU** · Reaction-wheel bots · Autonomous go-karts · ROS 2 platforms
+**Intern @ Delopt** · Gazebo-simulation · Internal-Tools-Development · ROS 2 platforms
 
 ---
 
