@@ -1,7 +1,5 @@
 # Hi, I'm Kanishka 👋
-
-Robotics & Embedded Systems Engineer — I build hardware, firmware, and control stacks for robots that operate in the real world.  
-
+Robotics & Embedded Systems Engineer — I build software, hardware, and real-time systems for robots that operate in the real world.  
 **MS Mechatronics @ NYU** · Reaction-wheel bots · Autonomous go-karts · ROS 2 platforms  
 **Intern @ Delopt**· ROS 2 · Gazebo · SLAM · Sensor Fusion · Object Detection · Synthetic Data · AMR Simulation
 
