@@ -8,34 +8,34 @@ Robotics & Embedded Systems Engineer — I build software, hardware, and real-ti
 
 ## Skills
 
-**Languages**
+**Languages:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat\&logo=gnubash\&logoColor=white)
 
-**Robotics & Embedded**
+**Robotics & Embedded:** 
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat\&logo=ros\&logoColor=white)
 ![micro-ROS](https://img.shields.io/badge/micro--ROS-22314E?style=flat)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat\&logo=espressif\&logoColor=white)
 ![ODrive](https://img.shields.io/badge/ODrive-FF6B00?style=flat)
 `Autonomous Navigation` `SLAM` `VSLAM` `Sensor Fusion` `Perception`
 
-**Computer Vision & Sensors**
+**Computer Vision & Sensors:** 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
 `Cameras` `LiDAR` `IMU` `mmWave Radar` `V4L2`
 
-**Communication & Systems**
+**Communication & Systems:** 
 `CAN Bus` `UART` `SPI` `I2C` `TCP/UDP` `Bluetooth` `Wi-Fi`
 `POSIX IPC` `Shared Memory` `Semaphores`
 
-**PCB & Hardware Design**
+**PCB & Hardware Design:** 
 ![KiCAD](https://img.shields.io/badge/KiCAD-314CB0?style=flat)
 ![EagleCAD](https://img.shields.io/badge/EagleCAD-0000FF?style=flat)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6D00?style=flat\&logo=autodesk\&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-900000?style=flat)
 
-**Simulation & Tools**
+**Simulation & Tools:** 
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF8C00?style=flat)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat)
