@@ -56,12 +56,13 @@ Simulation platform for developing and validating VSLAM and autonomous navigatio
 `ROS 2` `Gazebo` `VSLAM` `C++` `Computer Vision` `Navigation`
 
 ### ⚙️ [POSIX ↔ ROS 2 Shared Memory Bridge](https://github.com/KanishkaHarwani/posix-ros2-shm-bridge)
-C++ IPC pipeline connecting POSIX processes and ROS 2 through shared memory and semaphores. Validated with V4L2 camera capture, ROS 2 image transport, object detection, and live overlay rendering for high-throughput perception data.  
+C++ IPC pipeline connecting POSIX processes and ROS 2 through shared memory and semaphores. Validated with V4L2 camera capture, ROS 2 image transport, object detection, and live overlay rendering for high-throughput perception data.  Differential-drive robot with dual RGBD cameras, 3D lidar, IMU, and GPS, simulated in Gazebo Harmonic on ROS 2 Jazzy. SLAM mapping with slam_toolbox, then AMCL localization and Nav2 goal-pose navigation with live avoidance of obstacles missing from the saved map. Includes a distributed setup running the simulation on a laptop and Nav2 on a Jetson Orin Nano over Cyclone DDS.  
 `C++` `POSIX` `IPC` `Shared Memory` `ROS 2` `V4L2` `OpenCV`
 
 ### 🧭 [Pathfinder Bot: Gazebo + Nav2 Autonomous Navigation](https://github.com/KanishkaHarwani/pathfinder_bot)
-Differential-drive robot with dual RGBD cameras, 3D lidar, IMU, and GPS, simulated in Gazebo Harmonic on ROS 2 Jazzy. SLAM mapping with slam_toolbox, then AMCL localization and Nav2 goal-pose navigation with live avoidance of obstacles missing from the saved map. Includes a distributed setup running the simulation on a laptop and Nav2 on a Jetson Orin Nano over Cyclone DDS.  
+Differential-drive robot with dual RGBD cameras, 3D lidar, IMU, and GPS, simulated in Gazebo Harmonic on ROS 2 Jazzy. SLAM mapping with slam_toolbox, then AMCL localization and Nav2 goal-pose navigation with live avoidance of obstacles missing from the saved map. Includes a distributed setup running the simulation on a laptop and Nav2 on a Jetson Orin Nano over Cyclone DDS. 
 `ROS 2` `Gazebo` `Nav2` `SLAM` `AMCL` `Jetson` `Cyclone DDS` `Sensor Simulation`
+
 ---
 
 ## Currently
